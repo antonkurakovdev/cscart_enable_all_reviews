@@ -1,0 +1,63 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: cs-cart-latest\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: crowdin.net\n"
+"Last-Translator: cscart <zeke@cs-cart.com>\n"
+"PO-Revision-Date: 2014-07-22 06:00-0400\n"
+
+msgctxt "Addons::name::altteam_enable_reviews"
+msgid "[Alt-team] Enable All Reviews"
+msgstr "[Alt-team] Активация отзывов"
+
+msgctxt "Addons::description::altteam_enable_reviews"
+msgid "Enabled reviews for all products by one click in the add-on settings. Developed by <a target="_blank" href="http://alt-team.com/">Alt-team</a>"
+msgstr "Включите отзывы для всех продуктов в один клик в настройках аддона. Разработано <a target="_blank" href="http://alt-team.com/">Alt-team</a>"
+
+msgctxt "Languages::enable_all_reviews"
+msgid "Enable All Reviews"
+msgstr "Включить Отзывы"
+
+msgctxt "Languages::disable_all_reviews"
+msgid "Disable All Reviews"
+msgstr "Выключить Отзывы"
+
+msgctxt "Languages::er_enable"
+msgid "Use"
+msgstr "Применить"
+
+msgctxt "Languages::click_link_below"
+msgid "Please, select an action"
+msgstr "Пожалуйста, выберите действие"
+
+msgctxt "SettingsSections::altteam_enable_reviews::general"
+msgid "General"
+msgstr "Общее"
+
+msgctxt "SettingsOptions::altteam_enable_reviews::default_status"
+msgid "Default value"
+msgstr "Значение по умолчанию"
+
+msgctxt "SettingsOptions::altteam_enable_reviews::enabled_reviews"
+msgid "Enabled All Reviews"
+msgstr "Включить все отзывы"
+
+msgctxt "SettingsVariants::altteam_enable_reviews::default_status::B"
+msgid "Communication and Rating"
+msgstr "Обсуждение и Рейтинг"
+
+msgctxt "SettingsVariants::altteam_enable_reviews::default_status::C"
+msgid "Communication"
+msgstr "Обсуждение"
+
+msgctxt "SettingsVariants::altteam_enable_reviews::default_status::R"
+msgid "Rating"
+msgstr "Рейтинг"
+
+msgctxt "SettingsVariants::altteam_enable_reviews::default_status::D"
+msgid "Disabled"
+msgstr "Выключено"
+

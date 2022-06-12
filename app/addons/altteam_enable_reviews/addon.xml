@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<addon scheme="3.0">
+    <id>altteam_enable_reviews</id>
+    <version>1.2</version>
+    <status>active</status>
+    <priority>4294967294</priority>
+    <position>10</position> 
+    <auto_install>MULTIVENDOR,ULTIMATE</auto_install>
+    <default_language>en</default_language>
+    <supplier>Alt-team</supplier>
+    <supplier_link>https://alt-team.com/</supplier_link>
+    <has_icon>Y</has_icon>
+    <compatibility>
+        <core_version>
+            <min>4.2.0</min>
+        </core_version>
+    </compatibility>
+    <settings edition_type="ROOT">
+        <sections>
+			<section id="general">
+				<name>General</name>
+				<items>
+					<item id="default_status">
+						<type>selectbox</type>
+						<default_value>D</default_value>
+						<variants>
+							<item id="B">
+								<name>Communication and Rating</name>
+							</item>
+							<item id="C">
+								<name>Communication</name>
+							</item>
+							<item id="R">
+								<name>Rating</name>
+							</item>
+							<item id="D">
+								<name>Disabled</name>
+							</item>
+						</variants>
+					</item>
+					<item id="enabled_reviews">
+						<type>info</type>
+						<handler>fn_altteam_enable_reviews_generate_info</handler>
+					</item>
+				</items>
+			</section>
+        </sections>
+    </settings>
+</addon>

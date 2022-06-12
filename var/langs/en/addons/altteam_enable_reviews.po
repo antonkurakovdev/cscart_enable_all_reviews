@@ -1,0 +1,58 @@
+msgid ""
+msgstr "Project-Id-Version: tygh"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: English\n"
+"Language: en_US"
+
+msgctxt "Addons::name::altteam_enable_reviews"
+msgid "[Alt-team] Enable All Reviews"
+msgstr "[Alt-team] Enable All Reviews"
+
+msgctxt "Addons::description::altteam_enable_reviews"
+msgid "Enabled reviews for all products by one click in the add-on settings. Developed by <a target="_blank" href="http://alt-team.com/">Alt-team</a>"
+msgstr "Enabled reviews for all products by one click in the add-on settings. Developed by <a target="_blank" href="http://alt-team.com/">Alt-team</a>"
+
+msgctxt "Languages::enable_all_reviews"
+msgid "Enable All Reviews"
+msgstr "Enable All Reviews"
+
+msgctxt "Languages::disable_all_reviews"
+msgid "Disable All Reviews"
+msgstr "Disable All Reviews"
+
+msgctxt "Languages::er_enable"
+msgid "Use"
+msgstr "Use"
+
+msgctxt "Languages::click_link_below"
+msgid "Please, select an action"
+msgstr "Please, select an action"
+
+msgctxt "SettingsSections::altteam_enable_reviews::general"
+msgid "General"
+msgstr "General"
+
+msgctxt "SettingsOptions::altteam_enable_reviews::default_status"
+msgid "Default value"
+msgstr "Default value"
+
+msgctxt "SettingsOptions::altteam_enable_reviews::enabled_reviews"
+msgid "Enabled All Reviews"
+msgstr "Enabled All Reviews"
+
+msgctxt "SettingsVariants::altteam_enable_reviews::default_status::B"
+msgid "Communication and Rating"
+msgstr "Communication and Rating"
+
+msgctxt "SettingsVariants::altteam_enable_reviews::default_status::C"
+msgid "Communication"
+msgstr "Communication"
+
+msgctxt "SettingsVariants::altteam_enable_reviews::default_status::R"
+msgid "Rating"
+msgstr "Rating"
+
+msgctxt "SettingsVariants::altteam_enable_reviews::default_status::D"
+msgid "Disabled"
+msgstr "Disabled"
+
