@@ -61,3 +61,6 @@ msgctxt "SettingsVariants::altteam_enable_reviews::default_status::D"
 msgid "Disabled"
 msgstr "Выключено"
 
+msgctxt "SettingsOptions::altteam_enable_reviews::marketplace_license_number"
+msgid "Marketplace license number"
+msgstr "Номер лицензии"

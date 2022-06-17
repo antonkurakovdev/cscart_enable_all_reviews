@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <addon scheme="3.0">
     <id>altteam_enable_reviews</id>
-    <version>1.2</version>
+    <version>1.2.2</version>
     <status>active</status>
     <priority>4294967294</priority>
     <position>10</position> 
@@ -12,30 +12,25 @@
     <has_icon>Y</has_icon>
     <compatibility>
         <core_version>
-            <min>4.2.0</min>
+            <min>4.4.1</min>
         </core_version>
+		<core_edition>MULTIVENDOR,ULTIMATE</core_edition>
     </compatibility>
     <settings edition_type="ROOT">
         <sections>
 			<section id="general">
-				<name>General</name>
-				<items>
+				<items>				    
+					<item id="marketplace_license_number">
+						<type>input</type>
+					</item>
 					<item id="default_status">
 						<type>selectbox</type>
 						<default_value>D</default_value>
 						<variants>
-							<item id="B">
-								<name>Communication and Rating</name>
-							</item>
-							<item id="C">
-								<name>Communication</name>
-							</item>
-							<item id="R">
-								<name>Rating</name>
-							</item>
-							<item id="D">
-								<name>Disabled</name>
-							</item>
+							<item id="B"></item>
+							<item id="C"></item>
+							<item id="R"></item>
+							<item id="D"></item>
 						</variants>
 					</item>
 					<item id="enabled_reviews">
