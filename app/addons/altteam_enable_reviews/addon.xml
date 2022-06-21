@@ -27,7 +27,7 @@
         <sections>
 			<section id="general">
 				<items>				    
-					<item id="marketplace_license_number">
+					<item id="license_number">
 						<type>input</type>
 					</item>
 					<item id="default_status">
