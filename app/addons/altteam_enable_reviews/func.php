@@ -5,10 +5,9 @@
  * license and accepts the terms of the License Agreement can install and use
  * this program.
  *----------------------------------------------------------------------------
- * @copyright  LCC Alt-team: http://www.alt-team.com
+ * @copyright  LCC Alt-team: https://www.alt-team.com
  * @module     "Alt-team: Enabled All Reviews"
- * @version    4.x.x
- * @license    http://www.alt-team.com/addons-license-agreement.html
+ * @license    https://www.alt-team.com/addons-license-agreement.html
  ****************************************************************************/
 
 
